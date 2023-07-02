@@ -1,0 +1,53 @@
+* {
+  line-height: 1.5;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* ========== CHALLENGE 1 ========== */
+img {
+  width: 200px;
+  height: auto;
+}
+
+ul {
+  list-style: none;
+}
+h1 {
+  color: red;
+}
+/* ========== END OF CHALLENGE 1 ========== */
+
+/* ========== CHALLENGE 2 ========== */
+.recipe-card {
+  width: 400px;
+  background-color: #fffafa;
+  text-align: center;
+}
+.recipe-content {
+  text-align: left;
+}
+
+/* ========== END OF CHALLENGE 2 ========== */
+
+h2,
+a {
+  text-transform: uppercase;
+}
+
+.recipe-card.feature {
+  border: 2px solid red;
+}
+
+/* ========== CHALLENGE 3 ========== */
+ul li h2 {
+  font-size: 16px;
+}
+.recipe-card a {
+  background-color: #fc9400;
+  color: white;
+  text-decoration: none;
+}
+
+/* ========== END OF CHALLENGE 3 ========== */
